@@ -1,27 +1,62 @@
-# Dealership Capstone Project
+\# fullstack\_developer\_capstone
 
-## Project Name
-Dealership Review Application
 
-## Description
+
+\## Repository Name
+
+xrwvm-fullstack\_developer\_capstone
+
+
+
+\## Project Name
+
+fullstack\_developer\_capstone
+
+
+
+\## Description
+
 A full-stack web application for browsing car dealerships, viewing dealer information, and submitting dealership reviews.
 
-## Technologies
-- Django
-- React
-- Django REST Framework
-- JavaScript
-- HTML
-- CSS
-- GitHub Actions
 
-## Features
-- User registration and login
-- Dealer listing
-- Dealer details
-- Dealer reviews
-- Car makes and models
-- Review sentiment analysis
-- Responsive frontend
-- CI/CD workflow
-- Cloud deployment
+
+\## Technologies
+
+\- Django
+
+\- Django REST Framework
+
+\- React
+
+\- JavaScript
+
+\- HTML
+
+\- CSS
+
+\- GitHub Actions
+
+
+
+\## Features
+
+\- User registration and login
+
+\- Dealer listing
+
+\- Dealer details
+
+\- Dealer reviews
+
+\- Dealer search by state
+
+\- Car makes and models
+
+\- Review sentiment analysis
+
+\- Admin interface
+
+\- CI/CD workflow
+
+\- Cloud deployment
+
